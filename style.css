@@ -2,3 +2,22 @@
     margin: 0;
     padding: 0;
 }
+
+.container{
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+}
+
+.first{
+    display: flex;
+    width: 50%;;
+}
+
+.first-row{
+    display: flex;
+}
+
+.first-img{
+    width: 100%;;
+}
